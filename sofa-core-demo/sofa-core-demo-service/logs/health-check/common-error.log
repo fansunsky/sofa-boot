@@ -1,0 +1,10 @@
+2019-03-14 16:23:34,942 ERROR main                             - SOFABoot application after readiness check callback(class com.alipay.boot.sofarpc.spring.health.RpcAfterHealthCheckCallback) failed, the details is: {"Exception":"Failed to start bolt server, see more detail from bolt log."}
+2019-03-14 16:23:34,943 ERROR main                             - SofaBootAfterReadinessCheckCallback readiness check result: failed.
+2019-03-14 16:23:34,943 ERROR main                             - SOFABoot readiness check callback : failed.
+2019-03-14 16:23:34,943 ERROR main                             - second phase of the readiness check result: fail
+2019-03-14 16:23:34,943 ERROR main                             - Readiness check result: fail
+2019-03-14 16:25:00,911 ERROR main                             - SOFABoot application after readiness check callback(class com.alipay.boot.sofarpc.spring.health.RpcAfterHealthCheckCallback) failed, the details is: {"Exception":"Failed to start bolt server, see more detail from bolt log."}
+2019-03-14 16:25:00,911 ERROR main                             - SofaBootAfterReadinessCheckCallback readiness check result: failed.
+2019-03-14 16:25:00,911 ERROR main                             - SOFABoot readiness check callback : failed.
+2019-03-14 16:25:00,911 ERROR main                             - second phase of the readiness check result: fail
+2019-03-14 16:25:00,911 ERROR main                             - Readiness check result: fail

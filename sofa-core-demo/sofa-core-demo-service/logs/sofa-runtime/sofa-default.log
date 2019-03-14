@@ -1,0 +1,12 @@
+2019-03-14 16:23:32,603 INFO  main                             - Registering component: service:com.dodolu.sofacore.facade.SampleService
+2019-03-14 16:23:32,603 INFO  main                             -  <<PreOut Binding [tr] Begins - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:23:32,837 INFO  main                             -  <<PreOut Binding [tr] Ends - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:23:32,837 INFO  main                             -  <<Out Binding [tr] Begins - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:23:32,881 INFO  main                             -  <<Out Binding [tr] Ends - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:23:32,889 INFO  main                             - Register Service - com.dodolu.sofacore.facade.SampleService
+2019-03-14 16:24:58,510 INFO  main                             - Registering component: service:com.dodolu.sofacore.facade.SampleService
+2019-03-14 16:24:58,510 INFO  main                             -  <<PreOut Binding [tr] Begins - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:24:58,747 INFO  main                             -  <<PreOut Binding [tr] Ends - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:24:58,748 INFO  main                             -  <<Out Binding [tr] Begins - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:24:58,797 INFO  main                             -  <<Out Binding [tr] Ends - com.dodolu.sofacore.facade.SampleService.
+2019-03-14 16:24:58,797 INFO  main                             - Register Service - com.dodolu.sofacore.facade.SampleService

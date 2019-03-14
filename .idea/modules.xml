@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sofa-boot.iml" filepath="$PROJECT_DIR$/.idea/sofa-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-facade/sofa-core-demo-facade.iml" filepath="$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-facade/sofa-core-demo-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-parent.iml" filepath="$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-service/sofa-core-demo-service.iml" filepath="$PROJECT_DIR$/sofa-core-demo/sofa-core-demo-service/sofa-core-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-web-module/app/endpoint/sofa-web-module-endpoint.iml" filepath="$PROJECT_DIR$/sofa-web-module/app/endpoint/sofa-web-module-endpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-web-module/sofa-web-module-parent.iml" filepath="$PROJECT_DIR$/sofa-web-module/sofa-web-module-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofa-web-module/app/web/sofa-web-module-web.iml" filepath="$PROJECT_DIR$/sofa-web-module/app/web/sofa-web-module-web.iml" />
+    </modules>
+  </component>
+</project>
